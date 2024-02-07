@@ -1,0 +1,33 @@
+---
+title: "test"
+output: html_document
+date: "2024-02-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+# code team member 1 
+```
+
+
+```{r}
+# code team member 2
+```
+
+
+```{r}
+# code team member 3
+```
+
+
+```{r}
+# code team member 4
+```
